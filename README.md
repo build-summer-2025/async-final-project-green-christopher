@@ -1,2 +1,1 @@
-# github-team
-Ashley Deleon, Christopher Lopez
+Christopher Lopez
